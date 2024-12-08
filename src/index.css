@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.glow-text {
+  text-shadow: 0 4px 6px rgba(255, 255, 255, 0.3);
+}
+
+/* Glow effect */
+.cursor-glow {
+  position: fixed; /* Fixed to viewport for smooth animation */
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 70%);
+  pointer-events: none;
+  z-index: 1000;
+  transition: transform 0.1s, opacity 0.1s;
+}
+/* Default styles (desktop-first approach) */
+
+@media (max-width: 768px) {
+  /* Styles for tablets and smaller devices */
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Styles for mobile phones */
+  nav ul li {
+    margin: 5px 0;
+  }
+
+  body {
+    font-size: 14px;
+  }
+}
