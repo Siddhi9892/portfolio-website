@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.e0d494a2.css",
+    "main.js": "/portfolio-website/static/js/main.16a287bf.js",
+    "static/js/453.aac68abc.chunk.js": "/portfolio-website/static/js/453.aac68abc.chunk.js",
+    "static/media/Contactbg.png": "/portfolio-website/static/media/Contactbg.909177065bf9e773896d.png",
+    "static/media/Skills.jpg": "/portfolio-website/static/media/Skills.863e40d73ada389ce339.jpg",
+    "static/media/music-search.png": "/portfolio-website/static/media/music-search.fec643e9e25adad2cfd9.png",
+    "static/media/aboutimage2.png": "/portfolio-website/static/media/aboutimage2.e352ceeec0859c000d34.png",
+    "static/media/projects1.png": "/portfolio-website/static/media/projects1.0058d6aec54b6c134d85.png",
+    "static/media/wall-beautification.jpg": "/portfolio-website/static/media/wall-beautification.9a95e496e607bc2c1289.jpg",
+    "static/media/career-otaku.jpg": "/portfolio-website/static/media/career-otaku.778be917602935b050c8.jpg",
+    "static/media/petfam.jpg": "/portfolio-website/static/media/petfam.1700d4007b83e40240c5.jpg",
+    "static/media/Certifications2.png": "/portfolio-website/static/media/Certifications2.b0864754f2cfdf774202.png",
+    "static/media/discord-gpt.png": "/portfolio-website/static/media/discord-gpt.2f8e9ffb1c4abd80b302.png",
+    "static/media/profile.png": "/portfolio-website/static/media/profile.4c5a1d5dd57d5de3cfc4.png",
+    "static/media/face-detection.png": "/portfolio-website/static/media/face-detection.6d1f21095bb8a2301b80.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.e0d494a2.css.map": "/portfolio-website/static/css/main.e0d494a2.css.map",
+    "main.16a287bf.js.map": "/portfolio-website/static/js/main.16a287bf.js.map",
+    "453.aac68abc.chunk.js.map": "/portfolio-website/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d494a2.css",
+    "static/js/main.16a287bf.js"
+  ]
+}
